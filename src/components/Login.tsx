@@ -42,7 +42,7 @@ const Login: React.FC<LoginProps> = ({ setToken }) => {
         
         <div className="absolute bottom-12 left-12 z-30 animate-in slide-in-from-left-8 duration-1000">
           <h2 className="text-4xl font-black text-white mb-2 tracking-tighter">SnapCheats</h2>
-          <p className="text-indigo-400 font-medium text-lg">Next-gen administrative dashboard.</p>
+          <p className="text-indigo-400 font-medium text-lg max-w-lg leading-relaxed">The ultimate stealth advantage. Bypass tab-switching, focus tracking, and paste preventions seamlessly via an invisible background service.</p>
         </div>
       </div>
 
